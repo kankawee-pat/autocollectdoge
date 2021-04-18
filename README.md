@@ -62,7 +62,7 @@ Finish
 ```
 Join the telegram bot
 ```
-[Join](https://bit.ly/2USYQKK) - Your'e using my referral link, i got 2% you got 130%
+[Join](https://t.me/Dogecoin_click_bot?start=unlA6) - Your'e using my referral link, i got 2% you got 130%
 
 --------------
 ```
