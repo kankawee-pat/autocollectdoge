@@ -75,7 +75,7 @@ $ pkg update && pkg upgrade
 $ pkg install python git unzip
 ```
 ```
-$ git clone https://github.com/imskaaz/autocollectdoge
+$ git clone https://github.com/kankawee-pat/autocollectdoge/
 ```
 ```
 $ cd autocollect doge
