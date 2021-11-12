@@ -78,7 +78,7 @@ $ pkg install python git unzip
 $ git clone https://github.com/kankawee-pat/autocollectdoge/
 ```
 ```
-$ cd autocollect doge
+$ cd autocollectdoge
 ```
 ```
 $ unzip dogebot.zip
